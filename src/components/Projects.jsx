@@ -10,7 +10,7 @@ const Projects = () => {
         'Implemented listing and filtering APIs with community scoping for better discovery',
         'Optimized MongoDB queries for multi-community scale and fast search results'
       ],
-      github: 'https://github.com/ManthanPadalia',
+      github: 'https://github.com/',
       demo: null
     },
     {
